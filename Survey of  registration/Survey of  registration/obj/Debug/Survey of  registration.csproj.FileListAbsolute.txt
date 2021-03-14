@@ -1,0 +1,86 @@
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.exe.config
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.exe
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.pdb
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey_of__registration.Form1.resources
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey_of__registration.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.exe
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.pdb
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.1.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.UltraGauges.v20.1.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Portable.Core.v20.1.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.1.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.UltraGauges.v20.1.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Portable.Core.v20.1.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.exe.licenses
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\SolrNet.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\SolrNet.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Shared.v20.1.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.1.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.v20.1.dll
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Shared.v20.1.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.1.xml
+C:\Users\Lenovo\source\repos\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csprojAssemblyReference.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey_of__registration.Form1.resources
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey_of__registration.Properties.Resources.resources
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.GenerateResource.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.exe.licenses
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.CoreCompileInputs.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.exe
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.pdb
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.exe.config
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.exe
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.pdb
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Shared.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.UltraGauges.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Portable.Core.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Shared.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.UltraGauges.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Portable.Core.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.CopyComplete
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Newtonsoft.Json.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Newtonsoft.Json.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Misc.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Misc.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.exe.config
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.exe
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Survey of  registration.pdb
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Shared.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.UltraGauges.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Misc.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Portable.Core.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.v20.1.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Newtonsoft.Json.dll
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Shared.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.DataVisualization.UltraGauges.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Misc.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.Portable.Core.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.UltraWinEditors.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Infragistics4.Win.v20.1.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\bin\Debug\Newtonsoft.Json.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csprojAssemblyReference.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey_of__registration.Form1.resources
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey_of__registration.Properties.Resources.resources
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.GenerateResource.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.exe.licenses
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.CoreCompileInputs.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.csproj.CopyComplete
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.exe
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\2\2)\Survey of  registration\Survey of  registration\obj\Debug\Survey of  registration.pdb
